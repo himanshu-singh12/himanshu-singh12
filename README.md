@@ -39,10 +39,12 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/himanshu-singh12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:himanshusingh04760@gmail.com"><img src="https://img.icons8.com/officel/40/000000/send-mass-email.png"/></a>
+<a href="https://himanshu-singh.netlify.app/"><img src="https://img.icons8.com/cotton/64/000000/website.png"/></a>
+
 <!-- <a href="https://himanshu-singh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://himanshu-singh.netlify.app/-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/himanshu-singh12/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Himanshu%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:himanshusingh04760@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-himanshusingh04760@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
