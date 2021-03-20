@@ -3,38 +3,30 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himanshu Singh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer </h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## 🙋‍♂️ About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Guru Gobind Singh Indraprastha University.
 - 💼 &nbsp; Working as a Web Developer Intern at Sapne Ngo.
 - 🌱 &nbsp; Learning MERN Stack Python development.
 
+## 🚀 Languages and Tools:
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<p align="left">  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
+    <a href="https://icons8.com/icon/13664/wordpress"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+    <a href="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
+    <a href="https://icons8.com/icon/20774/google-cloud-platform"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
+    <a href="https://icons8.com/icon/117121/pycharm"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
+    
+</p>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
- 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  
--🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
- 
-
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-<br/>
 
 
 <br/>
